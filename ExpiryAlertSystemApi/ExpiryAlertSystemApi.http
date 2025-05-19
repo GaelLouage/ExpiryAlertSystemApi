@@ -1,0 +1,6 @@
+@ExpiryAlertSystemApi_HostAddress = http://localhost:5166
+
+GET {{ExpiryAlertSystemApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

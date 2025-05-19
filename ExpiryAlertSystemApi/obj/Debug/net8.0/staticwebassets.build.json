@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "syLYpsU4gK3RzJoHEn3BKbPNCfut3ew7IWB4nBfR3p8=",
+  "Source": "ExpiryAlertSystemApi",
+  "BasePath": "_content/ExpiryAlertSystemApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
